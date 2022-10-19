@@ -1,2 +1,2 @@
 # git_action_test
-test1
+test2
